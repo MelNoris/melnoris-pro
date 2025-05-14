@@ -1,6 +1,7 @@
 # https://tea.xyz/what-is-this-file
----
 version: 1.0.0
+name: melnoris-pro
+description: "A TypeScript utility library for basic calculations, currently focused on arithmetic operations"
 codeOwners:
   - '0xb5232BC28993b19b542D3519736D404b9a7Ec96f'
 quorum: 1
